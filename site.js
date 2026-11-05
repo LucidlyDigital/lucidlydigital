@@ -6,7 +6,7 @@
    The first few (HERO_COUNT) rotate in the homepage panel.
    All of them fill the gallery and lightbox on the work page.
    ========================================================= */
-const IMAGE_FOLDER = 'images/';
+const IMAGE_FOLDER = 'images/web/';
 
 const IMAGES = [
     'work-1.jpg',
@@ -18,9 +18,9 @@ const IMAGES = [
     'work-7.jpg',
     'work-8.jpg',
     'work-9.jpg',
-    'work-10.png',
-    'work-11.png',
-    'work-12.png'
+    'work-10.jpg',
+    'work-11.jpg',
+    'work-12.jpg'
 ];
 
 /* lightbox state — declared here so the builders below can fill it */
